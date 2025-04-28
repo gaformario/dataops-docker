@@ -31,7 +31,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 ![Build1](images/dataops1.png)
 
-![Build2](images/dataops3.png)
+![Build2](images/dataops2.png)
 
 3. Inicie o Docker Swarm (caso ainda não esteja ativo):
 
