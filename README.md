@@ -44,7 +44,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 5. Agora para testar se funcionou corretamente, teste o **endpoint** abaixo:
     ```bash
-    curl http://localhost:5000/endpoint
+    curl http://localhost:5000/clientes
 
 ![Endpoint](images/dataops4.png)
 
