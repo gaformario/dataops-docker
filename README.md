@@ -46,6 +46,8 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
     ```bash
     curl http://localhost:5000/endpoint
 
+![Endpoint](images/dataops4.png)
+
 - Caso retorne algo assim como a resposta abaixo, é porque funcionou:
     ```bash
     [[1,"Alice"],[2,"Bob"]
