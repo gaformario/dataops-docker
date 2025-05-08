@@ -29,7 +29,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
    docker build -t meu_stack_app ./app
    docker build -t meu_stack_api ./api
 
-![Build1](images/dataops.png)
+![Build1](images/dataops1.png)
 
 ![Build2](images/dataops2.png)
 
